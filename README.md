@@ -1,7 +1,7 @@
 # Postgraduate Practicum Projects Management System (Subsystem 3: Practicum Report Repository)
 
 ## About Me
-:wave: Hi, I am Kai Xuan, final year student from School of Computer Sciences.
+:wave: Hi, I am Kai Xuan, a final year student from School of Computer Sciences.
 
 ## About My Final Year Project
 Title: Postgraduate Practicum Projects Management System
